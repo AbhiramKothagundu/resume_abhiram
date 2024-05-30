@@ -1,3 +1,8 @@
+# My LaTeX Resume
+
+This is the LaTeX code for my resume:
+
+```latex
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Deedy - One Page Two Column Resume
 % LaTeX Template
@@ -137,8 +142,6 @@ Threat \& Vulnerability Management \\
 Linux \textbullet{} Git and Github \textbullet{} SQL \textbullet{} OpenGL \\
 \sectionsep
 
-
-
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
 %     Hobbies
@@ -150,8 +153,6 @@ Gaming \textbullet{}
 Art \textbullet{}
 Fiction Books \\
 \sectionsep
-
-
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
